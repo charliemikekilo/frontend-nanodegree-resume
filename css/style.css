@@ -92,6 +92,11 @@ a {
   display: block;
 }
 
+.btn {
+	vertical-align: top;
+	display: block;
+}
+
 .welcome-message {
   font-style: italic;
   font-size: 18px;
